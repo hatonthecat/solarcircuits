@@ -5,9 +5,13 @@ Study Material from introductory college texts to advanced and applied physics
 
 ![image](https://github.com/user-attachments/assets/e71cecb0-35e6-48ca-b4cc-6724319a6c76)
 
-Manuscripts of Isaac Newton's Opticks: https://cudl.lib.cam.ac.uk/view/MS-ADD-03970/1
+Manuscript of Isaac Newton's Opticks: https://cudl.lib.cam.ac.uk/view/MS-ADD-03970/1
 
 https://www.gutenberg.org/cache/epub/33504/pg33504-images.html
+
+https://www.e-rara.ch/zut/content/titleinfo/3266497
+
+https://en.wikipedia.org/wiki/Opticks#External_links
 
 https://www.gutenberg.org/ebooks/33504.epub3.images (excerpt with proofread section of above image included below)
 
