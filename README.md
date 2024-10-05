@@ -13,6 +13,28 @@ https://www.e-rara.ch/zut/content/titleinfo/3266497
 
 https://en.wikipedia.org/wiki/Opticks#External_links
 
+https://en.wikipedia.org/wiki/Opticks#Opticks_and_the_Principia
+
+"Unlike the Principia, Opticks is not developed using the geometric convention of propositions proved by deduction from either previous propositions, lemmas or first principles (or axioms). Instead, axioms define the meaning of technical terms or fundamental properties of matter and light, and the stated propositions are demonstrated by means of specific, carefully described experiments. The first sentence of Book I declares "My Design in this Book is not to explain the Properties of Light by Hypotheses, but to propose and prove them by Reason and Experiments. In an Experimentum crucis or "critical experiment" (Book I, Part II, Theorem ii), Newton showed that the color of light corresponded to its "degree of refrangibility" (angle of refraction), and that this angle cannot be changed by additional reflection or refraction or by passing the light through a coloured filter.
+
+The work is a vade mecum of the experimenter's art, displaying in many examples how to use observation to propose factual generalisations about the physical world and then exclude competing explanations by specific experimental tests. Unlike the Principia, which vowed Non fingo hypotheses or "I make no hypotheses" outside the deductive method, the Opticks develops conjectures about light that go beyond the experimental evidence: for example, that the physical behaviour of light was due its "corpuscular" nature as small particles, or that perceived colours were harmonically proportioned like the tones of a diatonic musical scale."
+
+---
+
+![image](https://github.com/user-attachments/assets/7c562b35-88c9-4d89-9489-33e75823c0c3)
+
+https://astro1.panet.utoledo.edu/~ljc/PE_eng.pdf
+
+"A heuristic[1] or heuristic technique (problem solving, mental shortcut, rule of thumb)[2][3][4][5] is any approach to problem solving that employs a pragmatic method that is not fully optimized, perfected, or rationalized, but is nevertheless "good enough" as an approximation or attribute substitution.[6][7] Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution.[8][9] Heuristics can be mental shortcuts that ease the cognitive load of making a decision.[10][11][12]
+
+Heuristic reasoning is often based on induction, or on analogy[.] [...] Induction is the process of discovering general laws [...] Induction tries to find regularity and coherence [...] Its most conspicuous instruments are generalization, specialization, analogy. [...] Heuristic discusses human behavior in the face of problems [...that have been] preserved in the wisdom of proverbs.[13]
+
+— George Pólya, How to Solve It"
+
+https://en.wikipedia.org/wiki/Heuristic
+
+---
+
 https://www.gutenberg.org/ebooks/33504.epub3.images (excerpt with proofread section of above image included below)
 
 "Credits: Produced by Suzanne Lybarger, steve harris, Josephine
