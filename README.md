@@ -86,7 +86,9 @@ My Design in this Book is not to explain the Properties of Light by Hypotheses, 
 
 DEFINITIONS
 DEFIN. I.
+
 By the Rays of Light I understand its least Parts, and those as well Successive in the same Lines, as Contemporary in several Lines. For it is manifest that Light consists of Parts, both Successive and Contemporary; because in the same place you may stop[Pg 2] that which comes one moment, and let pass that which comes presently after; and in the same time you may stop it in any one place, and let it pass in any other. For that part of Light which is stopp'd cannot be the same with that which is let pass. The least Light or part of Light, which may be stopp'd alone without the rest of the Light, or propagated alone, or do or suffer any thing alone, which the rest of the Light doth not or suffers not, I call a Ray of Light.
+
 ---
 
 https://iopscience.iop.org/article/10.1088/1755-1315/510/2/022017
@@ -113,6 +115,13 @@ Physik Paper of 1905
 A. B. Arons and M. B. Peppard"
 
 Einstein's Photon Proposal paper in 1905 suggested that the incidence light is proportional to the amount of energy it can excite -applied to a p-n junction, the bandgap wouuld translate into current. With ever more interest in energy harvesting devices, developing the lowest illuminescent cold start enables the highest efficiency in running a circuit, albeit with variables such as a movable object.
+
+In a way, he also predicted the amorphous silicon cells https://en.wikipedia.org/wiki/Amorphous_silicon (although George Cove was already demonstrating this in the early 1900s: https://theconversation.com/if-the-first-solar-entrepreneur-hadnt-been-kidnapped-would-fossil-fuels-have-dominated-the-20th-century-the-way-they-did-215300)
+
+https://en.wikipedia.org/wiki/Amorphous_silicon#/media/File:Solar_calculator_casio_fx115ES_crop.jpg
+
+![640px-Solar_calculator_casio_fx115ES_crop](https://github.com/user-attachments/assets/724943bc-bae3-4aa0-8c72-aac5a61b6585)
+
 
 https://e-peas.com/product/aem10920-high-efficiency-photovoltaic-source-pmic-for-rcu-and-kbd-applications/
 
