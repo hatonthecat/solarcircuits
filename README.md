@@ -87,52 +87,54 @@ My Design in this Book is not to explain the Properties of Light by Hypotheses, 
 DEFINITIONS
 DEFIN. I.
 By the Rays of Light I understand its least Parts, and those as well Successive in the same Lines, as Contemporary in several Lines. For it is manifest that Light consists of Parts, both Successive and Contemporary; because in the same place you may stop[Pg 2] that which comes one moment, and let pass that which comes presently after; and in the same time you may stop it in any one place, and let it pass in any other. For that part of Light which is stopp'd cannot be the same with that which is let pass. The least Light or part of Light, which may be stopp'd alone without the rest of the Light, or propagated alone, or do or suffer any thing alone, which the rest of the Light doth not or suffers not, I call a Ray of Light.
+---
 
-DEFIN. II.
-Refrangibility of the Rays of Light, is their Disposition to be refracted or turned out of their Way in passing out of one transparent Body or Medium into another. And a greater or less Refrangibility of Rays, is their Disposition to be turned more or less out of their Way in like Incidences on the same Medium. Mathematicians usually consider the Rays of Light to be Lines reaching from the luminous Body to the Body illuminated, and the refraction of those Rays to be the bending or breaking of those lines in their passing out of one Medium into another. And thus may Rays and Refractions be considered, if Light be propagated in an instant. But by an Argument taken from the Æquations of the times of the Eclipses of Jupiter's Satellites, it seems that Light is propagated in time, spending in its passage from the Sun to us about seven Minutes of time: And therefore I have chosen to define Rays and Refractions in such general terms as may agree to Light in both cases.[Pg 3]
+https://iopscience.iop.org/article/10.1088/1755-1315/510/2/022017
 
-DEFIN. III.
-Reflexibility of Rays, is their Disposition to be reflected or turned back into the same Medium from any other Medium upon whose Surface they fall. And Rays are more or less reflexible, which are turned back more or less easily. As if Light pass out of a Glass into Air, and by being inclined more and more to the common Surface of the Glass and Air, begins at length to be totally reflected by that Surface; those sorts of Rays which at like Incidences are reflected most copiously, or by inclining the Rays begin soonest to be totally reflected, are most reflexible.
+"IOP Conference Series: Earth and Environmental Science
 
-DEFIN. IV.
-The Angle of Incidence is that Angle, which the Line described by the incident Ray contains with the Perpendicular to the reflecting or refracting Surface at the Point of Incidence.
+"Low-voltage cold-start circuit for energy harvesting suitable for indoor sunlight
+Jiaju Pan1, Xinning liu1 and Dengbang Yu1
 
-DEFIN. V.
-The Angle of Reflexion or Refraction, is the Angle which the line described by the reflected or refracted Ray containeth with the Perpendicular to the reflecting or refracting Surface at the Point of Incidence.
+Published under licence by IOP Publishing Ltd
+IOP Conference Series: Earth and Environmental Science, Volume 510, 1. Energy Engineering and Power Engineering
+Citation Jiaju Pan et al 2020 IOP Conf. Ser.: Earth Environ. Sci. 510 022017
+DOI 10.1088/1755-1315/510/2/022017
 
-DEFIN. VI.
-The Sines of Incidence, Reflexion, and Refraction, are the Sines of the Angles of Incidence, Reflexion, and Refraction.[Pg 4]
+This paper proposes a low-voltage cold-start circuit suitable for indoor sunlight energy harvesting in TSMC 40nm CMOS process. The circuit can work normally when the input voltage is as low as 200mV and is compatible with a wide input power range. "
 
-DEFIN. VII
-The Light whose Rays are all alike Refrangible, I call Simple, Homogeneal and Similar; and that whose Rays are some more Refrangible than others, I call Compound, Heterogeneal and Dissimilar. The former Light I call Homogeneal, not because I would affirm it so in all respects, but because the Rays which agree in Refrangibility, agree at least in all those their other Properties which I consider in the following Discourse.
+![image](https://github.com/user-attachments/assets/efeb9cae-12d8-4730-947d-477df487fe8d)
 
-DEFIN. VIII.
-The Colours of Homogeneal Lights, I call Primary, Homogeneal and Simple; and those of Heterogeneal Lights, Heterogeneal and Compound. For these are always compounded of the colours of Homogeneal Lights; as will appear in the following Discourse.
+https://astro1.panet.utoledo.edu/~ljc/PE_eng.pdf 
 
-[Pg 5]
+https://pubs.aip.org/aapt/ajp/article-abstract/33/5/367/531453/Einstein-s-Proposal-of-the-Photon-Concept-a?redirectedFrom=fulltext
+"Einstein's Proposal of the Photon Concept—a Translation of the Annalen der
+Physik Paper of 1905
+A. B. Arons and M. B. Peppard"
 
-AXIOMS.
-AX. I.
-The Angles of Reflexion and Refraction, lie in one and the same Plane with the Angle of Incidence.
+Einstein's Photon Proposal paper in 1905 suggested that the incidence light is proportional to the amount of energy it can excite -applied to a p-n junction, the bandgap wouuld translate into current. With ever more interest in energy harvesting devices, developing the lowest illuminescent cold start enables the highest efficiency in running a circuit, albeit with variables such as a movable object.
 
-AX. II.
-The Angle of Reflexion is equal to the Angle of Incidence.
+https://e-peas.com/product/aem10920-high-efficiency-photovoltaic-source-pmic-for-rcu-and-kbd-applications/
 
-AX. III.
-If the refracted Ray be returned directly back to the Point of Incidence, it shall be refracted into the Line before described by the incident Ray.
+Vin
+0.14V to 3.2V
+5VDC opt.input
+Cold start
+275 mW / 5 μW
+Pin
+3µW to 550mW
+Pout
+20 mA @ 1.2/1.8 V and 80 mA @ 1.8-4.1 V
+Source Regulation
+MPP Tracking
+Package
+QFN24 4 x 4 mm
 
-AX. IV.
-Refraction out of the rarer Medium into the denser, is made towards the Perpendicular; that is, so that the Angle of Refraction be less than the Angle of Incidence.
+![image](https://github.com/user-attachments/assets/de90684a-cf53-4e02-91e7-f6a1e8d646c0)
 
-AX. V.
-The Sine of Incidence is either accurately or very nearly in a given Ratio to the Sine of Refraction.
+https://www.acs.org/education/chemmatters/past-issues/archive-2013-2014/how-a-solar-cell-works.html
 
-Whence if that Proportion be known in any one Inclination of the incident Ray, 'tis known in all the Inclinations, and thereby the Refraction in all cases[Pg 6] of Incidence on the same refracting Body may be determined. Thus if the Refraction be made out of Air into Water, the Sine of Incidence of the red Light is to the Sine of its Refraction as 4 to 3. If out of Air into Glass, the Sines are as 17 to 11. In Light of other Colours the Sines have other Proportions: but the difference is so little that it need seldom be considered.
+![image](https://github.com/user-attachments/assets/85661c5b-def8-4921-bd35-884bf6bd0e6f)
 
-Fig. 1 Fig. 1
-Suppose therefore, that RS [in Fig. 1.] represents the Surface of stagnating Water, and that C is the point of Incidence in which any Ray coming in the Air from A in the Line AC is reflected or refracted, and I would know whither this Ray shall go after Reflexion or Refraction: I erect upon the Surface of the Water from the point of Incidence the Perpendicular CP and produce it downwards to Q, and conclude by the first Axiom, that the Ray after Reflexion and[Pg 7] Refraction, shall be found somewhere in the Plane of the Angle of Incidence ACP produced. I let fall therefore upon the Perpendicular CP the Sine of Incidence AD; and if the reflected Ray be desired, I produce AD to B so that DB be equal to AD, and draw CB. For this Line CB shall be the reflected Ray; the Angle of Reflexion BCP and its Sine BD being equal to the Angle and Sine of Incidence, as they ought to be by the second Axiom, But if the refracted Ray be desired, I produce AD to H, so that DH may be to AD as the Sine of Refraction to the Sine of Incidence, that is, (if the Light be red) as 3 to 4; and about the Center C and in the Plane ACP with the Radius CA describing a Circle ABE, I draw a parallel to the Perpendicular CPQ, the Line HE cutting the Circumference in E, and joining CE, this Line CE shall be the Line of the refracted Ray. For if EF be let fall perpendicularly on the Line PQ, this Line EF shall be the Sine of Refraction of the Ray CE, the Angle of Refraction being ECQ; and this Sine EF is equal to DH, and consequently in Proportion to the Sine of Incidence AD as 3 to 4.
-
-In like manner, if there be a Prism of Glass (that is, a Glass bounded with two Equal and Parallel Triangular ends, and three plain and well polished Sides, which meet in three Parallel Lines running from the three Angles of one end to the three Angles of the other end) and if the Refraction of the Light in passing cross this Prism be desired: Let ACB [in Fig. 2.] represent a Plane cutting this Prism transversly to its three Parallel lines or edges there where[Pg 8] the Light passeth through it, and let DE be the Ray incident upon the first side of the Prism AC where the Light goes into the Glass; and by putting the Proportion of the Sine of Incidence to the Sine of Refraction as 17 to 11 find EF the first refracted Ray. Then taking this Ray for the Incident Ray upon the second side of the Glass BC where the Light goes out, find the next refracted Ray FG by putting the Proportion of the Sine of Incidence to the Sine of Refraction as 11 to 17. For if the Sine of Incidence out of Air into Glass be to the Sine of Refraction as 17 to 11, the Sine of Incidence out of Glass into Air must on the contrary be to the Sine of Refraction as 11 to 17, by the third Axiom.
-
-Fig. 2. Fig. 2.
-Much after the same manner, if ACBD [in Fig. 3.] represent a Glass spherically convex on both sides (usually called a Lens, such as is a Burning-glass, or Spectacle-glass, or an Object-glass of a Telescope) and it be required to know how Light falling upon it from any lucid point Q shall be refracted, let QM represent a Ray falling upon any point M of its first spherical Surface ACB, and by erecting a Perpendicular to the Glass at the point M, find the first refracted Ray MN by the Proportion of the Sines 17 to 11. Let that Ray in going out of the Glass be incident upon N, and then find the second refracted Ray Nq by the Proportion of the Sines 11 to 17. And after the same manner may the Refraction be found when the Lens is convex on one side and plane or concave on the other, or concave on both sides."
+Figure 1. Schematic representation of a solar cell, showing the n-type and p-type layers, with a close-up view of the depletion zone around the junction between the n-type and p-type layers.
+Anthony Fernandez
