@@ -147,3 +147,12 @@ https://www.acs.org/education/chemmatters/past-issues/archive-2013-2014/how-a-so
 
 Figure 1. Schematic representation of a solar cell, showing the n-type and p-type layers, with a close-up view of the depletion zone around the junction between the n-type and p-type layers.
 Anthony Fernandez
+
+
+10/15/2024
+--
+
+https://www.librarything.com/work/83668/book/273452866
+
+"Introduction to Electrodynamics- by David J. Griffiths (Author)" 5th Edition out, 4th Edition excellent.
+https://www.amazon.com/exec/obidos/ASIN/1108420419/ref=nosim/librarythin06-20
