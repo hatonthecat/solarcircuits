@@ -148,6 +148,9 @@ https://www.acs.org/education/chemmatters/past-issues/archive-2013-2014/how-a-so
 Figure 1. Schematic representation of a solar cell, showing the n-type and p-type layers, with a close-up view of the depletion zone around the junction between the n-type and p-type layers.
 Anthony Fernandez
 
+![image](https://github.com/user-attachments/assets/39f7c247-009a-44b8-bdf5-ae9a837b88af)
+
+
 
 10/15/2024
 --
