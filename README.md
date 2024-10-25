@@ -150,7 +150,12 @@ Anthony Fernandez
 
 ![image](https://github.com/user-attachments/assets/39f7c247-009a-44b8-bdf5-ae9a837b88af)
 
+A solar chip with a portable battery/capacitor is, no longer stationary (in the rooftop sense of stationary)
 
+not to be confused with IKAROS:
+
+![image](https://github.com/user-attachments/assets/f963061f-b69b-478a-956b-db792cc301be)
+https://en.wikipedia.org/wiki/IKAROS
 
 10/15/2024
 --
