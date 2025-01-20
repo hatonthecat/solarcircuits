@@ -122,6 +122,7 @@ https://en.wikipedia.org/wiki/Amorphous_silicon#/media/File:Solar_calculator_cas
 
 ![640px-Solar_calculator_casio_fx115ES_crop](https://github.com/user-attachments/assets/724943bc-bae3-4aa0-8c72-aac5a61b6585)
 
+![image](https://github.com/user-attachments/assets/3c5e381e-307e-4ead-b9d1-65163bb7e171)
 
 https://e-peas.com/product/aem10920-high-efficiency-photovoltaic-source-pmic-for-rcu-and-kbd-applications/
 
@@ -164,3 +165,13 @@ https://www.librarything.com/work/83668/book/273452866
 
 "Introduction to Electrodynamics- by David J. Griffiths (Author)" 5th Edition out, 4th Edition excellent.
 https://www.amazon.com/exec/obidos/ASIN/1108420419/ref=nosim/librarythin06-20
+
+Goal of Solar Circuit:
+--
+
+![image](https://github.com/user-attachments/assets/4ccec990-f17a-4f35-846a-7885d769271f)
+
+https://www.st.com/content/st_com/en/about/innovation---technology/FD-SOI.html
+
+https://islped.org/2014/files/ISLPED2014_FD_SOI_Philippe_Flatresse_STMicroelectronics.pdf 
+
