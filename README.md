@@ -242,12 +242,11 @@ Stick them really close by on a lower-cost substrate. This is how HBM is designe
 
 My response:
 
-The economics makes sense for small chip sizes with llw transistor sizes. large chips today regularly have L2 cache exceeding 64-96MB.
+The economics makes sense for small chip sizes with low transistor sizes. large chips today regularly have L2 cache exceeding 64-96MB.
 
 Developing a 1990's era 486 (1.2million)  or P54C with it 16MB or 32MB is nothing like the hse case that the question was most likely posed at: 4GB-8GB DDR4 modules. Fitting these on the same die would increase the risk of defects and decrease yields (as one mentioned- 199 out of 10,000 chips instead of 100/10,0000.
 
 However, considering the cost benefits and economies of scale, improving a manufacturing process to support both memory and logic could significantly decrease the PCB and latency, particularly woth a side by side HBM design: 4MB=CPU=4MB. This would also avoid the heat transfer of the CPU through the memory on the vertically stacked Raspberry Pi.
-
 
 The economics makes a lot of sense, if there was a will for the product.
 
@@ -265,9 +264,6 @@ The Claremont had 6 million transistors. Assuming the level shifters were just t
 Thus DRAM being similar to logic transistors, might consume 5 mW for 3MB of RAM at 60MHz.
 
 A 386 @33MHz with 275,000 transistors and 4MB of RAM might also consume 5mW or less at 22nm FD-SOI/TSMC ULL/Intel 16nm FF.
-
-
-
 
 https://www.reddit.com/r/LinusTechTips/comments/1d9cyhm/with_cpu_manufacturers_putting_memory_directly_on/?rdt=34560
 
