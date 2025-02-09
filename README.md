@@ -246,9 +246,24 @@ The economics makes sense for small chip sizes with low transistor sizes. large 
 
 Developing a 1990's era 486 (1.2million)  or P54C with it 16MB or 32MB is nothing like the hse case that the question was most likely posed at: 4GB-8GB DDR4 modules. Fitting these on the same die would increase the risk of defects and decrease yields (as one mentioned- 199 out of 10,000 chips instead of 100/10,0000.
 
-However, considering the cost benefits and economies of scale, improving a manufacturing process to support both memory and logic could significantly decrease the PCB and latency, particularly woth a side by side HBM design: 4MB=CPU=4MB. This would also avoid the heat transfer of the CPU through the memory on the vertically stacked Raspberry Pi.
+However, considering the cost benefits and economies of scale, improving a manufacturing process to support both memory and logic could significantly decrease the PCB cost and latency, particularly with a side by side HBM design: 4MB=CPU=4MB. This would also avoid the heat transfer of the CPU through the memory on the vertically stacked Raspberry Pi.
 
-The economics makes a lot of sense, if there was a will for the product.
+Silicon manufacturing is Freakonomics. Binning makes economic sense because the foundry and chip designer invested so mich into the deaign. But one needn't bin when there is so much less die space used. It would be hard not to find a margin of profit if far more chips could be manufactured that include noth RAM, GPU, and CPU. Even if they sell a low cost product like the Nokia 225 (with Unisoc). The volume to produce thousands of these chips once the manufacturing process were perfected could result in 98-99% yields.
+
+a 300mm wafer is :
+
+"The following table provides an overview comparison between these wafer sizes:
+Attribute	200mm	300mm
+Maximum Die per Wafer	100-125 dies	229-450 dies
+Die Size Range	20mm2 - 320mm2	60mm2 - 450mm2
+Fabrication Maturity	High	Requires advanced expertise
+Startup Costs	Low	Very high
+
+https://waferpro.com/200mm-wafer-vs-300mm-wafer/
+
+It's unclear if 300mm wafers need 60mm^2 or 20mm^2 for 200mm wafers or of it just the typical size used for foundry chips produced in high volume. However, a 20mm^2 would be around 7 million x 20, or 140 million transistors using the Haswell estimate. maybe enough for 128MB RAM. 
+
+For 1mmx1mm, though, the economics makes a lot of sense, if there was a will for the product. If not, for science.
 
 But not every customer knows what they need/want. And Steve Jobs said that was the rrason he designed the Mac.
 
