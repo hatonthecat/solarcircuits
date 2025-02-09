@@ -175,3 +175,104 @@ https://www.st.com/content/st_com/en/about/innovation---technology/FD-SOI.html
 
 https://islped.org/2014/files/ISLPED2014_FD_SOI_Philippe_Flatresse_STMicroelectronics.pdf 
 
+
+1K of DRAM is ~1024 transistors, but 1K of SRAM is 6144-8192 (or possibly 10T/1C)~10K.
+
+Thus a 386 might use 275,000 transistors, but to run Windows 95, it'd need at least 4,500,000 transistors (+4MB). More than I thought.
+
+Developing a SoM with that much integrated DRAM would be interesting. If I can calculate how many nodes fit inside 1mm x 1mm at 22nm, I could determine the minimum cost.
+
+https://www.cmc.ca/globalfoundries-22fdx-fdsoi-22-nm/
+
+$24,999 for 1mm x 1mm (academic only)
+
+$17,999 (1mm x 9mm) minimum = $161,991 USD. (Also 3mm x 3mm). I've never calculated units to the square very well. Sometimes I don't carry the right unit or number over. 
+
+It's a better deal for 22nm compared to Skywater's 130nm, $10,000 Caravel. (Muse in NL) has some 65nm prices too. Still, it might be possible to manufacture 4MB+ 386 under 1mm x 1mm.
+
+My Pentium was 3.1million at 600nm (or 800nm), plus 8MB, plus 512K-1MB VRAM. To make it a single chip, it'd be 3.1 million, plus whatever cache on board (486 had 8KB), so that's around 12.2 million transistors to make the system in a package/(single board computer like the Raspberry Pi). And it'd all be solar powerable...
+
+But could it fit in 1mm^2?
+
+The Haswell E.at 22nm is 2.6 billion transistors in 355 mm^2. Dividing 2.16b/ 355 and I get 7.32million transistors:
+https://en.m.wikipedia.org/wiki/Transistor_count (or should I do the square root= ~18 x 18)?
+
+That can't be right, right? 
+
+But that suggests I can fit a Pentium with 8MB DRAM.in 2mm^2 or a 386 with 4MB RAM in 1mm ^2..
+
+On DRAM: 
+https://electronics.stackexchange.com/questions/175615/why-is-ram-not-put-on-the-cpu-chip
+
+"Intel's Haswell (or at least those products that incorporate the Iris Pro 5200 GPU) and IBM's POWER7 and POWER8 all include embedded DRAM, "eDRAM".
+
+One important issue that has led eDRAM not to be common until recently is that the DRAM fabrication process is not inherently compatible with logic processes, so that extra steps must be included (which increase cost and decrease yield) when eDRAM is desired. So, there must be a compelling reason for wanting to incorporate it in order to offset this economic disadvantage. Alternatively, DRAM can be placed on a separate die that is manufactured independently of, but then integrated onto the same package as, the CPU. This provides most of the benefits of locality without the difficulties of manufacturing the two in a truly integrated way.
+
+Another problem is that DRAM is not like SRAM in that it does not store its contents indefinitely while power is applied, and reading it also destroys the stored data, which must be written back afterwards. Hence, it has to be refreshed periodically and after every read. And, because a DRAM cell is based on a capacitor, charging or discharging it sufficiently that leakage will not corrupt its value before the next refresh takes some finite amount of time. This charging time is not required with SRAM, which is just a latch; consequently it can be clocked at the same rate as the CPU, whereas DRAM is limited to about 1 GHz while maintaining reasonable power consumption. This causes DRAM to have a higher inherent latency than SRAM, which makes it not worthwhile to use for all but the very largest caches, where the reduced miss rate will pay off. (Haswell and POWER8 are roughly contemporaneous and both incorporate up to 128MB of eDRAM, which is used as an L4 cache.)
+
+Also, as far as latency is concerned, a large part of the difficulty is the physical distance signals must travel. Light can only travel 10 cm in the clock period of a 3 GHz CPU. Of course, signals do not travel in straight lines across the die and nor do they propagate at anything close to the speed of light due to the need for buffering and fan-out, which incur propagation delays. So, the maximum distance a memory can be away from a CPU in order to maintain 1 clock cycle of latency is a few centimetres at most, limiting the amount of memory that can be accommodated in the available area. Intel's Nehalem processor actually reduced the capacity of the L2 cache versus Penryn partly to improve its latency, which led to higher performance.* If we do not care so much about latency, then there is no reason to put the memory on-package, rather than further away where it is more convenient.
+
+It should also be noted that the cache hit rate is very high for most workloads: well above 90% in almost all practical cases, and not uncommonly even above 99%. So, the benefit of including larger memories on-die is inherently limited to reducing the impact of this few percent of misses. Processors intended for the enterprise server market (such as POWER) typically have enormous caches and can profitably include eDRAM because it is useful to accommodate the large working sets of many enterprise workloads. Haswell has it to support the GPU, because textures are large and cannot be accommodated in cache. These are the use cases for eDRAM today, not typical desktop or HPC workloads, which are very well served by the typical cache hierarchies.
+
+To address some issues raised in comments:
+
+These eDRAM caches cannot be used in place of main memory because they are designed as L4 victim caches. This means that they are volatile and effectively content-addressable, so that data stored in them is not treated as residing in any specific location, and may be discarded at any time. These properties are difficult to reconcile with the requirement of RAM to be direct-mapped and persistent, but to change them would make the caches useless for their intended purpose. It is of course possible to embed memories of a more conventional design, as it is done in microcontrollers, but this is not justifiable for systems with large memories since low latency is not as beneficial in main memory as it is in a cache, so enlarging or adding a cache is a more worthwhile proposition.
+
+As to the possibility of very large caches with capacity on the order of gigabytes, a cache is only required to be at most the size of the working set for the application. HPC applications may deal with terabyte datasets, but they have good temporal and spatial locality, and so their working sets typically are not very large. Applications with large working sets are e.g. databases and ERP software, but there is only a limited market for processors optimized for this sort of workload. Unless the software truly needs it, adding more cache provides very rapidly diminishing returns. Recently we have seen processors gain prefetch instructions, so caches are able to be used more efficiently: one can use these instructions to avoid misses caused by the unpredictability of memory access patterns, rather than the absolute size of the working set, which in most cases is still relatively small.
+
+*The improvement in latency was not due only to the smaller physical size of the cache, but also because the associativity was reduced. There were significant changes to the entire cache hierarchy in Nehalem for several different reasons, not all of which were focused on improving performance. So, while this suffices as an example, it is not a complete account."
+
+2nd comment:
+
+"The main reasons larger memory (GB's of DRAM) isn't included on the CPU die itself is primarily about cost. CPU die space is significantly more expensive because of the manufacturing process required to make the very small features. It may also not be possible to manufacture the two on the same die, though I don't know enough about the details to give any definitive answer here.
+
+Let's evaluate the feasibility of putting a large amount of DRAM directly onto the CPU die.
+
+To give a comparison of scale, a modern CPU die might be ~180 mm2
+ (approx. size of Intel Haswell dies). I don't have any accurate figures for CPU DRAM die sizes, but let's assume that 1GB of traditional DRAM takes 140mm2
+ (calculated from GPU DRAM sizes). To a first order approximation, you are roughly doubling the CPU die size, which means at least doubling the cost of a CPU, and likely more just for 1GB of DRAM on the same die... I am not paying several hundred dollars just to get 1GB of DRAM, and I don't think anyone would.
+
+However, the idea of sticking memory closer to the CPU is not completely a lost cause. This is likely where memory will move in the future because the fact is the speed of light is finite and it is only possible to communicate so fast over a certain distance.
+
+Realistic techniques for moving memory closer to the CPU (note that these also have trade-offs with traditional techniques):
+
+Stack them on top of the CPU itself. This is already done on the Raspberry Pi, and is part of the Wide I/O memory standard. The memory is still a separate die manufactured on a separate process. However, this has the problem that any heat dissipated in the CPU must pass through the memory before reaching a heat sink. This means it won't work for high power processors, and why the primary applications for this technology is in mobile processors/other embedded applications where your CPU isn't consuming many tens or hundreds of watts.
+
+Stick them really close by on a lower-cost substrate. This is how HBM is designed to work, with a very large bus manufactured onto a lower-cost "interposer" die, and is the direction high-end GPU memory is going because the bandwidth is significantly higher. The memory chips and interposer are all still manufactured on different dies from the actual processor."
+
+My response:
+
+The economics makes sense for small chip sizes with llw transistor sizes. large chips today regularly have L2 cache exceeding 64-96MB.
+
+Developing a 1990's era 486 (1.2million)  or P54C with it 16MB or 32MB is nothing like the hse case that the question was most likely posed at: 4GB-8GB DDR4 modules. Fitting these on the same die would increase the risk of defects and decrease yields (as one mentioned- 199 out of 10,000 chips instead of 100/10,0000.
+
+However, considering the cost benefits and economies of scale, improving a manufacturing process to support both memory and logic could significantly decrease the PCB and latency, particularly woth a side by side HBM design: 4MB=CPU=4MB. This would also avoid the heat transfer of the CPU through the memory on the vertically stacked Raspberry Pi.
+
+
+The economics makes a lot of sense, if there was a will for the product.
+
+But not every customer knows what they need/want. And Steve Jobs said that was the rrason he designed the Mac.
+
+"If I asked customers what they wanted, they would have said they wanted a faster horse!" 
+(he was quoting Henry Ford)
+
+Industry Titans aside, the performance of a 486 or 386 with RAM side by side the CPU might actually run faster than the original 1985 design because the vias and routing was significantly further away and may not have reached it's theoretical maximum.
+
+I am still interested in a 40-50MHz clock speed. Even of the DRAM uses much more power than SRAM, it might be possible to keep the power consumption to 2-10mW.
+
+The Claremont had 6 million transistors. Assuming the level shifters were just to downregulate the speed and not needed for a fixed speed, that could suggest it used as little as 3.1 million as the original Pentium in a 60MHz static frequency.
+
+Thus DRAM being similar to logic transistors, might consume 5 mW for 3MB of RAM at 60MHz.
+
+A 386 @33MHz with 275,000 transistors and 4MB of RAM might also consume 5mW or less at 22nm FD-SOI/TSMC ULL/Intel 16nm FF.
+
+
+
+
+https://www.reddit.com/r/LinusTechTips/comments/1d9cyhm/with_cpu_manufacturers_putting_memory_directly_on/?rdt=34560
+
+"@LesserHedgehog There's a limit to how much your cache hit rate can be in general, so adding more cache doesn't really help anything. Also a lot of CPUs actually DO have embedded DRAM now, especially in the mobile/embedded space (many ARM-based SoCs for example). – 
+fluffy
+ CommentedJun 16, 2015 at 7:47"
+
+ 
