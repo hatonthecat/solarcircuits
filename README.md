@@ -342,7 +342,7 @@ Power saving technique? A standby mode for 2nd 4MB module when RAM utilization <
 
 As recognized earlier,
 
-"The Haswell E.at 22nm is 2.6 billion transistors in 355 mm^2. Dividing 2.16b/ 355 and I get 7.32million transistors:
+"The Haswell E at 22nm is 2.6 billion transistors in 355 mm^2. Dividing 2.16b/ 355 and I get 7.32million transistors:
 https://en.m.wikipedia.org/wiki/Transistor_count (or should I do the square root= ~18 x 18)? 
 
 That can't be right, right? 
