@@ -314,6 +314,8 @@ https://semiwiki.com/semiconductor-manufacturers/tsmc/283868-tsmc-32mb-embedded-
 
 55mA is quite a bit of power. Perhaps the newer technology doesn't use as much..
 
+However, it's unclear what speed that refers to. 100MHz? 10MHz? Does it scale from 1MHz to 100MHz? 0.8Amps x 10MHz = 8mA. A 386 could be clocked from 16MHz or 20MHz. If the memory were clocked at 20MHz, it would consume 16mA at 100% utilization, per 4MB. I'm unsure if this is close to the actual amount, or whether the RAM usage is usually far less on average. But it may be quite for some systems that are not run constantly. 
+
 https://www.techbriefs.com/component/content/article/6131-z-ram
 
 https://www.ramxeed.com/products/feram/why-feram.html 
