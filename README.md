@@ -286,4 +286,52 @@ https://www.reddit.com/r/LinusTechTips/comments/1d9cyhm/with_cpu_manufacturers_p
 fluffy
  CommentedJun 16, 2015 at 7:47"
 
- 
+
+The evolution of embedded DRAM (eDRAM)
+--
+
+![image](https://github.com/user-attachments/assets/cd9bfa3f-a135-4441-902c-2ce4b44896f2) (2014)
+from:
+https://semiengineering.com/the-power-of-edram/ 
+
+https://chipworksrealchips.blogspot.com/2014/02/intels-e-dram-shows-up-in-wild.html
+
+https://marklapedus.substack.com/p/leti-quobly-describe-new-fd-soi-devices 
+
+https://ieeexplore.ieee.org/document/9180997 
+
+https://ieeexplore.ieee.org/document/5090590
+
+https://www.blog.baldengineering.com/2020/05/ibm-has-adopted-14-nm-fd-soi-finfet.html
+
+https://marklapedus.substack.com/p/leti-quobly-describe-new-fd-soi-devices
+
+https://semiwiki.com/semiconductor-manufacturers/tsmc/283868-tsmc-32mb-embedded-stt-mram-at-isscc2020/ 
+
+"This implementation in TSMC’s 22nm Ultra-Low-Leakage (ULL) CMOS process has a very high read speed of 10ns, and read power of 0.8mA/MHz-bit. It has 100K cycle write endurance for 32Mb code and 1M cycle endurance for 1Mb data. It supports data retention for IR reflow at 260C of 90 seconds and 10 years data retention at 150C.  It is implemented in a  very small 1transistor-1resistor (1T1R) 0.046 mm2 bit cell and has a very low leakage current of 55mA at 25C for the 32Mb array equivalent to 1.7E-12A/bit when in Low Power Standby Mode (LPSM).  It utilizes a sensing scheme with per-sense amp trimming and 1T4R reference cell." (2020)
+
+55mA is quite a bit of power. Perhaps the newer technology doesn't use as much..
+
+https://www.techbriefs.com/component/content/article/6131-z-ram
+
+https://www.ramxeed.com/products/feram/why-feram.html 
+
+https://www.semanticscholar.org/paper/A-22nm-high-performance-embedded-DRAM-SoC-featuring-Brain-Baran/fca85359c455fe6cd03070f15ff084b3798d491f 
+
+https://en.wikipedia.org/wiki/1T-SRAM
+
+Haswell eDRAM (2014) https://www.anandtech.com/Gallery/Album/3392#4 
+
+https://www.techinsights.com/blog/memory/disruptive-technology-tsmc-22ull-emram
+
+https://www.mdpi.com/2076-3417/11/23/11254 
+
+https://cmosedu.com/jbaker/papers/talks/Franklin_Institute_Dennard_Talk.pdf
+
+https://www.eetimes.com/intels-embedded-dram-new-era-of-cache-memory/2/ 
+
+Chip idea:
+
+![image](https://github.com/user-attachments/assets/b3e37813-d3bd-42e7-895b-55cd7c4900a3)
+
+Power saving technique? A standby mode for 4MB module when RAM utilization <4MB?
