@@ -334,4 +334,4 @@ Chip idea:
 
 ![image](https://github.com/user-attachments/assets/b3e37813-d3bd-42e7-895b-55cd7c4900a3)
 
-Power saving technique? A standby mode for 4MB module when RAM utilization <4MB?
+Power saving technique? A standby mode for 2nd 4MB module when RAM utilization <4MB?
