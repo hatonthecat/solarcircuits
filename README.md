@@ -332,6 +332,6 @@ https://www.eetimes.com/intels-embedded-dram-new-era-of-cache-memory/2/
 
 Chip idea:
 
-![image](https://github.com/user-attachments/assets/b3e37813-d3bd-42e7-895b-55cd7c4900a3)
+![image](https://github.com/user-attachments/assets/73e5c620-cf48-49ba-a086-5aaa9bd32443)
 
 Power saving technique? A standby mode for 2nd 4MB module when RAM utilization <4MB?
