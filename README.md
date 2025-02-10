@@ -335,3 +335,16 @@ Chip idea:
 ![image](https://github.com/user-attachments/assets/73e5c620-cf48-49ba-a086-5aaa9bd32443)
 
 Power saving technique? A standby mode for 2nd 4MB module when RAM utilization <4MB?
+
+As recognized earlier,
+
+"The Haswell E.at 22nm is 2.6 billion transistors in 355 mm^2. Dividing 2.16b/ 355 and I get 7.32million transistors:
+https://en.m.wikipedia.org/wiki/Transistor_count (or should I do the square root= ~18 x 18)? 
+
+That can't be right, right? 
+
+But that suggests I can fit a Pentium with 8MB DRAM.in 2mm^2 or a 386 with 4MB RAM in 1mm ^2"
+
+7.32 million transistors isn't enough for  a 386 and 8MB of memory, assuming that is the limit for 1mm^2. However, 18nm FDSOI exists, and smaller transistors may be able to fit. But it might be enough for 6MB of RAM!
+
+In a large volume order, slightly larger than 1 square mm might not make a difference if the reticle can segement each die to larger than 1mm^2 (e.g. 1.25mm^2) per chip https://en.wikichip.org/wiki/mask
