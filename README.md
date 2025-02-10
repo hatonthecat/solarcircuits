@@ -310,6 +310,8 @@ https://semiwiki.com/semiconductor-manufacturers/tsmc/283868-tsmc-32mb-embedded-
 
 "This implementation in TSMC’s 22nm Ultra-Low-Leakage (ULL) CMOS process has a very high read speed of 10ns, and read power of 0.8mA/MHz-bit. It has 100K cycle write endurance for 32Mb code and 1M cycle endurance for 1Mb data. It supports data retention for IR reflow at 260C of 90 seconds and 10 years data retention at 150C.  It is implemented in a  very small 1transistor-1resistor (1T1R) 0.046 mm2 bit cell and has a very low leakage current of 55mA at 25C for the 32Mb array equivalent to 1.7E-12A/bit when in Low Power Standby Mode (LPSM).  It utilizes a sensing scheme with per-sense amp trimming and 1T4R reference cell." (2020)
 
+![image](https://github.com/user-attachments/assets/0d0b35f7-ab66-4fae-95ca-27e8fe3e2601)
+
 55mA is quite a bit of power. Perhaps the newer technology doesn't use as much..
 
 https://www.techbriefs.com/component/content/article/6131-z-ram
