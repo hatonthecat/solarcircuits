@@ -355,4 +355,12 @@ In a large volume order, slightly larger than 1 square mm might not make a diffe
 
 https://www.musesemi.com/full-block-tapeout-pricing 
 
+https://www.wired.com/2009/08/ff-goodenough/
 
+https://spectrum.ieee.org/en
+
+https://en.m.wikipedia.org/wiki/Principle_of_good_enough
+
+https://cacm.acm.org/news/is-good-enough-computing-good-enough/
+
+https://ldstephens.net/2024/02/12/good-enough-computing/
