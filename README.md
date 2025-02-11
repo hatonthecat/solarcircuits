@@ -347,7 +347,7 @@ https://www.eetimes.com/intels-embedded-dram-new-era-of-cache-memory/2/
 Chip idea:
 --
 
-A solar circuit is not an intrinsically solar "capable" circuit. It is indistinguishable from any other CMOS microprocessor transistor. However, the nomenclature is used to emphasize solar capable microprocessors, one designed to be coupled with a proportional amount of photovoltaic panel sizes, and ones, that are not oversized. 
+A solar circuit is not an intrinsically solar "capable" circuit. It is indistinguishable from any other CMOS microprocessor transistor. However, the nomenclature is used to emphasize solar capable microprocessors, one designed to be coupled with a proportional amount of photovoltaic panel sizes, and ones that are not oversized. 
 
 ![image](https://github.com/user-attachments/assets/73e5c620-cf48-49ba-a086-5aaa9bd32443)
 
