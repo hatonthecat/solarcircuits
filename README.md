@@ -357,10 +357,12 @@ https://www.musesemi.com/full-block-tapeout-pricing
 
 https://www.wired.com/2009/08/ff-goodenough/
 
-https://spectrum.ieee.org/en
+https://spectrum.ieee.org/enerj-the-language-of-goodenough-computing
 
 https://en.m.wikipedia.org/wiki/Principle_of_good_enough
 
 https://cacm.acm.org/news/is-good-enough-computing-good-enough/
+
+https://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
 
 https://ldstephens.net/2024/02/12/good-enough-computing/
