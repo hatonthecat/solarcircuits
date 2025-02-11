@@ -201,6 +201,9 @@ That can't be right, right?
 
 But that suggests I can fit a Pentium with 8MB DRAM.in 2mm^2 or a 386 with 4MB RAM in 1mm ^2..
 
+AMD Zen CCX (core complex unit: 4 cores, 8 MB L3 cache)	1,400,000,000[111]	2017	AMD	14 nm
+(GF 14LPP)	44 mm2	31,800,000 1.4b/ 44 = 31.818 million transistors at 14nm. A 3 million transistor Pentium and 24MB of RAM could fit. 
+
 On DRAM: 
 https://electronics.stackexchange.com/questions/175615/why-is-ram-not-put-on-the-cpu-chip
 
