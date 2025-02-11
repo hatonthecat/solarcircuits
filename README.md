@@ -199,6 +199,13 @@ https://en.m.wikipedia.org/wiki/Transistor_count (or should I do the square root
 
 That can't be right, right? 
 
+This column matches roughly with that estimate:
+
+![image](https://github.com/user-attachments/assets/2213f815-0e59-4b21-9b96-997aa015a54f)
+
+![image](https://github.com/user-attachments/assets/eeebaec5-a810-43d4-b6b9-f4c41599113c)
+The Xbox One seems to have the highest density at 28nm- 13million transistors in 1 mm^2. The z13 also has 3m more transistors than the Haswell, with 10m transistors. Thus a 1.2m 486 and an 8MB RAM could fit in a 1mm^2 die size (or even a pentium + 8MB, if one counts the XBox one density.)
+
 But that suggests I can fit a Pentium with 8MB DRAM.in 2mm^2 or a 386 with 4MB RAM in 1mm ^2..
 
 AMD Zen CCX (core complex unit: 4 cores, 8 MB L3 cache)	1,400,000,000[111]	2017	AMD	14 nm
