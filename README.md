@@ -379,3 +379,11 @@ https://cacm.acm.org/news/is-good-enough-computing-good-enough/
 https://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
 
 https://ldstephens.net/2024/02/12/good-enough-computing/
+
+February 2025 prepublication, not peer reviewed paper [available here](https://github.com/hatonthecat/solarcircuits/blob/main/A%20Heuristic%20Method%20for%20Designing%20Solar%20Circuits.pdf)
+
+https://www.youtube.com/watch?v=sxeRCpg9mfc 1999 Toshiba Portege, 64MB RAM and Pentium II running Tiny Core Linux with kernel 6.8, excellent performance
+
+DSL 2024 on PIII w/ 512MB RAM: https://www.youtube.com/watch?v=fhOpJwTzFag
+
+on 2GB RAM (utilization peaks 600<x>512MB) https://www.youtube.com/watch?v=zl7s6RDbuzU
