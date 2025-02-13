@@ -387,3 +387,17 @@ https://www.youtube.com/watch?v=sxeRCpg9mfc 1999 Toshiba Portege, 64MB RAM and P
 DSL 2024 on PIII w/ 512MB RAM: https://www.youtube.com/watch?v=fhOpJwTzFag
 
 on 2GB RAM (utilization peaks 600<x>512MB) https://www.youtube.com/watch?v=zl7s6RDbuzU
+
+https://en.wikipedia.org/wiki/WinChip 
+
+The WinChip series is a discontinued low-power Socket 7-based x86 processor that was designed by Centaur Technology and marketed by its parent company IDT.
+
+Overview
+Design
+The design of the WinChip was quite different from other processors of the time. Instead of a large gate count and die area, IDT, using its experience from the RISC processor market, created a small and electrically efficient processor similar to the 80486, because of its single pipeline and in-order execution microarchitecture. It was of much simpler design than its Socket 7 competitors, such as AMD K5/K6, which were superscalar and based on dynamic translation to buffered micro-operations with advanced instruction reordering (out of order execution). 
+
+Performance
+Although the small die size and low power-usage made the processor notably inexpensive to manufacture, it never gained much market share. WinChip C6 was a competitor to the Intel Pentium and Pentium MMX, Cyrix 6x86, and AMD K5/K6. It performed adequately, but only in applications that used little floating point math. Its floating point performance was simply well below that of the Pentium and K6, being even slower than the Cyrix 6x86.[4]
+
+Decline
+The industry's move away from Socket 7 and the release of the Intel Celeron processor signalled the end of the WinChip. In 1999, the Centaur Technology division of IDT was sold to VIA. Although VIA branded the processors as "Cyrix", the company initially used technology similar to the WinChip in its Cyrix III line.[5]"
