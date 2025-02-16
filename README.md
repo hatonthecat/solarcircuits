@@ -1,4 +1,4 @@
-# solarcircuits
+R# solarcircuits
 Study Material from introductory college texts to advanced and applied physics
 
 ![image](https://github.com/user-attachments/assets/318fb998-c42c-4033-b8ee-bd897ead547b)
@@ -258,7 +258,7 @@ Developing a 1990's era 486 (1.2million)  or P54C with it 16MB or 32MB is nothin
 
 However, considering the cost benefits and economies of scale, improving a manufacturing process to support both memory and logic could significantly decrease the PCB cost and latency, particularly with a side by side HBM design: 4MB=CPU=4MB. This would also avoid the heat transfer of the CPU through the memory on the vertically stacked Raspberry Pi.
 
-Silicon manufacturing is Freakonomics. Binning makes economic sense because the foundry and chip designer invested so mich into the deaign. But one needn't bin when there is so much less die space used. It would be hard not to find a margin of profit if far more chips could be manufactured that include noth RAM, GPU, and CPU. Even if they sell a low cost product like the Nokia 225 (with Unisoc). The volume to produce thousands of these chips once the manufacturing process were perfected could result in 98-99% yields.
+Silicon manufacturing is Freakonomics. Binning makes economic sense because the foundry and chip designer invested so much into the design. But one needn't bin when there is so much less die space used. It would be hard not to find a margin of profit if far more chips could be manufactured that include noth RAM, GPU, and CPU. Even if they sell a low cost product like the Nokia 225 (with Unisoc). The volume to produce thousands of these chips once the manufacturing process were perfected could result in 98-99% yields.
 
 a 300mm wafer is :
 
