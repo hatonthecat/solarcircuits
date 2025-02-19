@@ -386,6 +386,8 @@ https://www.youtube.com/watch?v=sxeRCpg9mfc 1999 Toshiba Portege, 64MB RAM and P
 
 DSL 2024 on PIII w/ 512MB RAM: https://www.youtube.com/watch?v=fhOpJwTzFag
 
+https://www.youtube.com/watch?v=BnQqnQiFDTA MX Linux on a Pentium IV
+
 on 2GB RAM (utilization peaks 600<x>512MB) https://www.youtube.com/watch?v=zl7s6RDbuzU
 
 https://en.wikipedia.org/wiki/WinChip 
