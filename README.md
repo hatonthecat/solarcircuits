@@ -296,6 +296,22 @@ https://www.reddit.com/r/LinusTechTips/comments/1d9cyhm/with_cpu_manufacturers_p
 fluffy
  CommentedJun 16, 2015 at 7:47"
 
+ IMG_20250401_143654 - Copy.jpg
+https://www.jeffgeerling.com/blogs/jeff-geerling/raspberry-pi-zero-power
+JPEG Image - 435.15 kB - 04/01/2025 at 19:43
+
+Preview
+IMG_20250401_141252 - Copy.jpg
+https://www.waveshare.com/solar-power-manager.htm Solar Power Management Module, for 6V~24V Solar Panel "500mAh 14500 Rechargeable Lithium Battery, High-Capacity 3.7-4.2V, Stainless Steel, 1000+ Cycles, Reliable Power for Electronics"
+JPEG Image - 1.22 MB - 04/01/2025 at 19:25
+
+https://hackaday.io/project/177716/gallery#df73ed3e67179b63bf890473e28bee06
+
+Perhaps reusing established form factors, 14500 and 18650 battery form factors for Lithium Ion Capacitors:
+https://www.licaptech.com/pdfs/datasheets/lithium-ion/LICAP_LIC_Summary.pdf 
+https://www.licaptech.com/products/lc0200-380-asw-lithium-ion-capacitor 200F is 18650 compatible (although tabless). Perhaps a solar power manager with a 14500 could be designed, or a waveshare-like manager with a battery slot could be integrated to support 18650.
+Preview 
+
 
 The evolution of embedded DRAM (eDRAM)
 --
