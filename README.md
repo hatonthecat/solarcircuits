@@ -419,3 +419,10 @@ Although the small die size and low power-usage made the processor notably inexp
 
 Decline
 The industry's move away from Socket 7 and the release of the Intel Celeron processor signalled the end of the WinChip. In 1999, the Centaur Technology division of IDT was sold to VIA. Although VIA branded the processors as "Cyrix", the company initially used technology similar to the WinChip in its Cyrix III line.[5]"
+
+Solar RISC
+--
+
+
+https://github.com/user-attachments/assets/43f1a9f8-71da-4a7b-a702-6393597f0c61
+
