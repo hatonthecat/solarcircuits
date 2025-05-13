@@ -426,3 +426,9 @@ Solar RISC
 
 https://github.com/user-attachments/assets/43f1a9f8-71da-4a7b-a702-6393597f0c61
 
+Circuit Design
+--
+
+https://brandonli.net/semisim/ 
+reference material https://hackaday.com/2025/05/13/simulating-high-side-bootstrap-circuits-with-ltspice/
+
