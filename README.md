@@ -312,6 +312,7 @@ https://www.licaptech.com/pdfs/datasheets/lithium-ion/LICAP_LIC_Summary.pdf
 https://www.licaptech.com/products/lc0200-380-asw-lithium-ion-capacitor 200F is 18650 compatible (although tabless). Perhaps a solar power manager with a 14500 could be designed, or a waveshare-like manager with a battery slot could be integrated to support 18650.
 Preview 
 
+Wasn't it Bill Gates who said 64mAh ought to be enough for anybody?
 
 The evolution of embedded DRAM (eDRAM)
 --
