@@ -433,3 +433,10 @@ Circuit Design
 https://brandonli.net/semisim/ 
 reference material https://hackaday.com/2025/05/13/simulating-high-side-bootstrap-circuits-with-ltspice/
 
+https://semianalysis.com/2022/06/10/apple-m2-die-shot-and-architecture/ (replace this with an x86 and add 16MB eDRAM: https://www.youtube.com/watch?v=p54U74E4eas&feature=youtu.be
+
+<img width="838" height="404" alt="image" src="https://github.com/user-attachments/assets/87a3e5fd-bee8-484f-a270-08da1fa76058" />
+
+
+ <img width="1024" height="165" alt="image" src="https://github.com/user-attachments/assets/e2f7741b-ae8b-4826-a04c-72d460dc61f9" />
+
