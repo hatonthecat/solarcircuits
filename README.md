@@ -440,3 +440,4 @@ https://semianalysis.com/2022/06/10/apple-m2-die-shot-and-architecture/ (replace
 
  <img width="1024" height="165" alt="image" src="https://github.com/user-attachments/assets/e2f7741b-ae8b-4826-a04c-72d460dc61f9" />
 
+https://github.com/hatonthecat/linux_distro_tests#kolibri-os 8MB RAM w/ Kolibri 16 color https://www.youtube.com/watch?v=c-nL0IOH8nc
