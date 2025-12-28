@@ -437,7 +437,8 @@ https://semianalysis.com/2022/06/10/apple-m2-die-shot-and-architecture/ (replace
 
 <img width="838" height="404" alt="image" src="https://github.com/user-attachments/assets/87a3e5fd-bee8-484f-a270-08da1fa76058" />
 
-
  <img width="1024" height="165" alt="image" src="https://github.com/user-attachments/assets/e2f7741b-ae8b-4826-a04c-72d460dc61f9" />
 
 https://github.com/hatonthecat/linux_distro_tests#kolibri-os 8MB RAM w/ Kolibri 16 color https://www.youtube.com/watch?v=c-nL0IOH8nc
+
+https://inavoyage.blogspot.com/2025/09/the-future-of-32-bit-linux-support.html 
