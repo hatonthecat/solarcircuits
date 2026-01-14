@@ -441,4 +441,25 @@ https://semianalysis.com/2022/06/10/apple-m2-die-shot-and-architecture/ (replace
 
 https://github.com/hatonthecat/linux_distro_tests#kolibri-os 8MB RAM w/ Kolibri 16 color https://www.youtube.com/watch?v=c-nL0IOH8nc
 
+
+1mm^2 chip with 10um kerf width would allow up to 81 chips in a 100mm^2 wafer die space. https://semiengineering.com/laser-ablation-dicing-revolutionizes-ultra-thin-wafer-saws-beyond-the-capability-of-blade-dicing/
+
+10um = 0.01 millimeters.
+100um - 0.10 millimeters.
+
+More than 100um kerfs would result in less than eighty one 1mm^2 chips in 100mm^2.
+
+https://www.viksnewsletter.com/p/a-close-look-at-sram-for-inference 
+
+In general, when it comes to capacity, all DRAM technologies whether HBM, LPDDR, or GDDR have an advantage over SRAM. The fundamental difference in their cell structure, as we saw above, directly affects how much memory can be packed into a given die area. With HBM3e, density is on the order of ~200 Mb of DRAM per mm², while at TSMC’s N3E node, 1 mm² of silicon can hold only ~38 Mb of SRAM.
+
+https://datasheet.octopart.com/CG82NM10-S-LGXX-Intel-datasheet-76215416.pdf 
+
+https://www.intel.com/pressroom/enhanced/atom_n450/pdfs/Next_Gen_Atom_Processor_factsheet.pdf?iid=pr_smrelease_Pinetrail_rellinks6
+
+The NM10 integrated Intel 3150 video graphics with an Atom N450 on 45nm High-k Metal Gate technology.  What if this same concept were applied to Pentium era chipsets, like the P54C, with a Cirrus Logic or Tseng EX4000 video card. ALl of this would be integrated, potentially on the same lithography run, without ISA or PCI-express busses, of course. And up to 24MB of RAM is the current memory density of HBM. As to whether the power consumption would be too significant, eDRAM might use less, with 2D stacking. It's also unclear how many pinouts would be needed, although things like USB and SDHC controllers could also be integrated in 1mm^2.
+
+
+
+
 https://inavoyage.blogspot.com/2025/09/the-future-of-32-bit-linux-support.html 
