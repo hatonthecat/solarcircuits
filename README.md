@@ -460,3 +460,23 @@ https://www.intel.com/pressroom/enhanced/atom_n450/pdfs/Next_Gen_Atom_Processor_
 The NM10 integrated Intel 3150 video graphics with an Atom N450 on 45nm High-k Metal Gate technology.  What if this same concept were applied to Pentium era chipsets, like the P54C, with a Cirrus Logic or Tseng EX4000 video card. ALl of this would be integrated, potentially on the same lithography run, without ISA or PCI-express busses, of course. And up to 24MB of RAM is the current memory density of HBM. As to whether the power consumption would be too significant, eDRAM might use less, with 2D stacking. It's also unclear how many pinouts would be needed, although things like USB and SDHC controllers could also be integrated in 1mm^2.
 
 https://inavoyage.blogspot.com/2025/09/the-future-of-32-bit-linux-support.html 
+
+1/20/2026
+--
+
+I am always late to technology that I end up finding interest in. I was late to the Quark after it got discontinued, and I am late to the eDRAM discontinuation.
+
+https://www.pcworld.com/article/3033650/panther-lake-is-intels-hail-mary.html 
+
+"Panther Lake is the first product built on Intel’s 18A manufacturing process, and Intel is no longer depending on TSMC. Intel is also abandoning some of the weirder decisions of Lunar Lake. For example, Panther Lake no longer has on-package memory. In a world where RAM is driving up the price of PCs, that’s valuable."
+
+https://www.pcworld.com/article/2507953/lunar-lakes-integrated-dram-wont-happen-again-intel-ceo-says.html 
+
+‘It really is a one off’: Lunar Lake’s integrated RAM won’t happen again, Intel CEO says 
+
+I tend to view a lot of these statements with high suspicion. 
+
+"According to Gelsinger, Intel doesn’t want to be responsible for managing memory. “It’s not a good way to run the business,” he said." 
+
+For a company that got its start manufacturing memory, the Intel 3101 ([the Intel 3101](https://www.intel.com/content/www/us/en/history/virtual-vault/articles/intels-first-product-3101.html), it sounds more like a company that can't produce memory packaging than one that "doesn't want to be responsible" for it. Not every embedded device gets a memory upgrade, unlike laptops. 
+
