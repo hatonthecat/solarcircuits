@@ -478,7 +478,7 @@ I tend to view a lot of these statements with high suspicion.
 
 "According to Gelsinger, Intel doesn’t want to be responsible for managing memory. “It’s not a good way to run the business,” he said." 
 
-For a company that got its start manufacturing memory, the Intel 3101 ([the Intel 3101](https://www.intel.com/content/www/us/en/history/virtual-vault/articles/intels-first-product-3101.html), it sounds more like a company that can't produce memory packaging than one that "doesn't want to be responsible" for it. Not every embedded device gets a memory upgrade, unlike laptops. 
+For a company that got its start manufacturing memory, the Intel 3101 ([the Intel 3101](https://www.intel.com/content/www/us/en/history/virtual-vault/articles/intels-first-product-3101.html), it sounds more like a company that can't produce memory packaging than one that "doesn't want to be responsible" for it. Not every embedded device needs a memory upgrade, nor do all laptops. An improved process could very well become a standard, if the manufacturing efficiencies could be figured out. But a large company might have so many different departments with competing priorities that they abandon an actually improved energy efficient design. Apple doesn't seem to be phasing out its integrated memory anytime soon. Does Intel have ADHD?
 
 These are far larger capacities than Iris Pro GT3e (128MB eDRAM), so I realize the purpose of this RAM, but there's little reason it can't be expanded for an Atom line.
 
