@@ -480,3 +480,10 @@ I tend to view a lot of these statements with high suspicion.
 
 For a company that got its start manufacturing memory, the Intel 3101 ([the Intel 3101](https://www.intel.com/content/www/us/en/history/virtual-vault/articles/intels-first-product-3101.html), it sounds more like a company that can't produce memory packaging than one that "doesn't want to be responsible" for it. Not every embedded device gets a memory upgrade, unlike laptops. 
 
+These are far larger capacities than Iris Pro GT3e (128MB eDRAM), so I realize the purpose of this RAM, but there's little reason it can't be expanded for an Atom line.
+
+https://en.wikipedia.org/wiki/Lunar_Lake#Memory
+
+"Lunar Lake features on-package LPDDR5X-8533 RAM available in 16 GB or 32 GB capacities.[21] This on-package memory is a similar approach to Apple with its M series SoCs that integrate unified LPDDR memory onto the package beside the CPU silicon.[22] On-package memory allows the CPU to benefit from higher memory bandwidth at lower power and decreased latency as memory is physically closer to the CPU. Intel claims that Lunar Lake's on-package memory achieved a reduction of 40% in power consumption and "up to 250 square millimeters" of space.[23] Furthermore, memory that is integrated onto the CPU package means that the overall processor physical footprint in laptops can be reduced as memory does not need to be placed onto a separate board with its own cooling solution. Less complex cooling being required means that Lunar Lake processors can more easily fit in ultra-low power compact mobile solutions. The downside of Lunar Lake's on-package memory is that is not user replaceable or upgradable to higher capacities beyond 32 GB with SO-DIMMs.[23] Due to the inclusion of on-package memory, an additional 2 W is added to the TDP of Lunar Lake processors. Lunar Lake processors have a TDP ranging from 17 to 30 W compared to the 15–28 W TDP of Meteor Lake-H processors."
+
+TL:DR "Computers can't be fun or efficient because we like to spoil everyone's party."
