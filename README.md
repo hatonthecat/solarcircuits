@@ -1,4 +1,6 @@
-solarcircuits
+Solarcircuits
+--
+
 Study Material from introductory college texts to advanced and applied physics
 
 <img width="1154" height="611" alt="Zhang-Lu-Yi-2" src="https://github.com/user-attachments/assets/05434432-7e58-437e-991d-4e00315ca23b" />
