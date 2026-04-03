@@ -1,5 +1,12 @@
-R# solarcircuits
+solarcircuits
 Study Material from introductory college texts to advanced and applied physics
+
+<img width="1154" height="611" alt="Zhang-Lu-Yi-2" src="https://github.com/user-attachments/assets/05434432-7e58-437e-991d-4e00315ca23b" />
+ 
+ Physics according to a software-focused developer might not exist either.
+
+ Silicon transistors are in manyways the workhorse of software design - the beehive: https://upload.wikimedia.org/wikipedia/commons/7/7f/The_British_Bee_Hive.jpg
+ https://courses.bowdoin.edu/history-2203-fall-2020-cgoldber/gilded-age-cartoons/ Silicon may have originated from sand, but systems should not resemble pyramids.
 
 ![image](https://github.com/user-attachments/assets/318fb998-c42c-4033-b8ee-bd897ead547b)
 
