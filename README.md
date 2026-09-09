@@ -1,5 +1,19 @@
 Solarcircuits
 --
+9-9-26
+--
+
+https://newsletter.semianalysis.com/p/metas-infrastructure-team-needs-a 
+
+does RosaicLabs have anything to do with "TBD"?
+
+"This chip configuration is intended for Recsys workloads and was something that Recsys infrastructure teams decided. However, the decision was made before TBD Lab was formed or could have its say. Given the significant network deficiency, TBD will have much greater preference for Vera Rubin. AMD designed MI450X Helios to beat or match Vera Rubin’s specs, but Meat Infra has decided to blunt this and make compute and network a deficiency.
+
+This decision is going to nuke AMD’s volume at Meta because TBD will vastly prefer Rubin if this custom MI450 design is chosen."
+
+
+---
+
 
 Study Material from introductory college texts to advanced and applied physics
 
