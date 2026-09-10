@@ -1,5 +1,15 @@
 Solarcircuits
 --
+9-10-26
+--
+
+https://docs.google.com/document/d/1P_rlKl_WpPC2YZk8a_f_fk1Udto2nPKD2kYYqCKUoSE/edit?usp=sharing
+https://gemini.google.com/app/d0bfc1d6bb7e18c9?hl=en-CA
+
+<img width="642" height="208" alt="image" src="https://github.com/user-attachments/assets/aa60cd7f-ed55-41f6-b2b4-b244eac7be42" />
+
+25mm^2 is approximately 2500 chips per wafer.
+
 9-9-26
 --
 
