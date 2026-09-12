@@ -1,5 +1,12 @@
 Solarcircuits
 --
+9-12-2026
+--
+
+Summary of X86 ISA developments and possible(wishful) collaboration with future chip designers:
+
+https://inavoyage.blogspot.com/2026/09/x86s-and-why-im-accomodating-solar-chip.html
+
 9-10-26
 --
 
