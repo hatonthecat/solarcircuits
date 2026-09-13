@@ -1,6 +1,7 @@
 Solarcircuits
 --
 9-13-2026
+--
 
 Manufacturing costs are being increasingly determined by energy consumption in both edge cases and HPC servers, since a post-Moore's Law paradigm has been applied in newer chip design- both quantum and adiabatic architectures:
 
