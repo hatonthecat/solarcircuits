@@ -1,5 +1,22 @@
 Solarcircuits
 --
+9-13-2026
+
+Manufacturing costs are being increasingly determined by energy consumption in both edge cases and HPC servers, since a post-Moore's Law paradigm has been applied in newer chip design- both quantum and adiabatic architectures:
+
+https://www.researchgate.net/publication/407085731_Energy_Volume_and_Performance_Post-Moore's_Law_Scaling
+
+"Energy, Volume, and Performance: Post-Moore’s Law ScalingThe Moral Imperative of Energy Eiciency" 06/2026
+
+https://www.researchgate.net/publication/385214786_Evolution_of_computing_energy_efficiency_Koomey's_law_revisited
+
+Evolution of computing energy efficiency: Koomey’s law revisited 
+Cluster Computing (2025) 28:42
+https://doi.org/10.1007/s10586-024-04767-y
+(0123456789().,-volV
+
+However, even with conventional, non-adiabatic CMOS, retroactively applying the principles of volumetric computing- energy, volume, performance (EVP) - in that order- will see its application retroactively to both leading and lagging nodes. ASML's new EUV machines chips rely on increased wafer throughput alongside less parasitic leakage, while and imec and IGZO's 2D planar RAM indicates RAM indicates more embedded RAM competing for the same die space as logic cells. The ultimate design considerations now shift to integration of both memory and logic towards achieving performance gains in less space, as an economic cost engineering drive, allocating less memory manufacturing capacity to discrete chips (e.g. DDR5/6 modules).
+
 9-12-2026
 --
 
