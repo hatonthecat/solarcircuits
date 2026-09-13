@@ -16,7 +16,7 @@ Cluster Computing (2025) 28:42
 https://doi.org/10.1007/s10586-024-04767-y
 (0123456789().,-volV
 
-However, even with conventional, non-adiabatic CMOS, retroactively applying the principles of volumetric computing- energy, volume, performance (EVP) - in that order- will see its application retroactively to both leading and lagging nodes. ASML's new high NA EUV machines chips rely on increased wafer throughput alongside less parasitic leakage, while and imec and IGZO's 2D planar &3D RAM indicates more embedded RAM competing for the same die space as logic cells. The ultimate design considerations now shift to integration of both memory and logic towards achieving performance gains in less space, as an economic cost engineering drive, allocating less memory manufacturing capacity to discrete chips (e.g. DDR5/6 modules). https://semiengineering.com/the-sub-2nm-paradox/
+However, even with conventional, non-adiabatic CMOS, applying the principles of volumetric computing- energy, volume, performance (EVP) - in that order- will see its application retroactively to both leading and lagging nodes. ASML's new high NA EUV machines chips rely on increased wafer throughput alongside less parasitic leakage, while and imec and IGZO's 2D planar &3D RAM indicates more embedded RAM competing for the same die space as logic cells. The ultimate design considerations now shift to integration of both memory and logic towards achieving performance gains in less space, as an economic cost engineering drive, allocating less memory manufacturing capacity to discrete chips (e.g. DDR5/6 modules). https://semiengineering.com/the-sub-2nm-paradox/
 
 9-12-2026
 --
